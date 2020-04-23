@@ -11,8 +11,3 @@ MIGRANDO PARA JSX POR MEIO DO [BABEL](https://babeljs.io/)
 **[Veja esse projeto em:](https://loja-virtual-8a86c.web.app/)**
 
 obs: ainda não foi atualizado
-
-
-
-
-
